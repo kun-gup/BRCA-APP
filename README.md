@@ -45,10 +45,7 @@ A single mobile app (Android + iOS) for Satpura hostel that tracks both the **BR
 | 9 | QC | Quizzing Club (QC), IIT Delhi | ✅ Yes |
 | 10 | Music | Music Club (Cadence), IIT Delhi | ✅ Yes |
 | 11 | Envogue | Envogue — Fashion Club, IIT Delhi | ✅ Yes |
-| 12 | Indradhanu | Indradhanu (inclusive arts club) | ✅ Yes |
-| 13 | Spic Macay | Spic Macay, IIT Delhi Chapter | ❌ Non-competitive |
-
-> Note: The BRCA constitution officially lists 10 clubs; the website shows 13 including newer additions (Design, Envogue, Indradhanu). Use the website list as your source of truth since the constitution may be outdated. Confirm with your BRCA admin contact before locking the database.
+| 12 | Spic Macay | Spic Macay, IIT Delhi Chapter | ❌ Non-competitive |
 
 ### BSA Sports (14 sports, all competitive)
 
@@ -81,7 +78,7 @@ Both BRCA and BSA sides share the same features. Where the implementation differ
 - The toggle state is remembered per session.
 
 ### 3.2 Leaderboard
-- **Overall view:** total points across all clubs/sports, all 13 hostels ranked.
+- **Overall view:** total points across all clubs/sports, all hostels ranked.
 - **Club/sport-wise view:** filter by one club or sport, see per-hostel ranking.
 - Transparent scoring: points awarded + deductions shown separately, never silently netted.
 - Satpura's row is highlighted in every view.
